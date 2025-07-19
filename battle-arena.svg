@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      .battle-text { font-family: 'Courier New', monospace; font-size: 16px; font-weight: bold; }
+      .player { fill: #00ff41; }
+      .enemy { fill: #ff4757; }
+      .neutral { fill: #ffffff; }
+      .damage { animation: shake 0.5s ease-in-out infinite; }
+      @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-2px); }
+        75% { transform: translateX(2px); }
+      }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#0d1117"/>
+  
+  <!-- Battle Arena -->
+  <rect x="50" y="50" width="700" height="300" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  
+  <!-- Player Side -->
+  <text x="100" y="100" class="battle-text player">PLAYER: DS7838</text>
+  <text x="100" y="130" class="battle-text player">HP: 98%</text>
+  <text x="100" y="160" class="battle-text player">WEAPON: ⚔️ Clean Code</text>
+  
+  <!-- Enemy Side -->
+  <text x="500" y="100" class="battle-text enemy">ENEMY: BUGS</text>
+  <text x="500" y="130" class="battle-text enemy">HP: 23%</text>
+  <text x="500" y="160" class="battle-text enemy">TYPE: 🐛 Logic Errors</text>
+  
+  <!-- Battle Status -->
+  <text x="300" y="250" class="battle-text neutral">BATTLE STATUS:</text>
+  <text x="250" y="280" class="battle-text player">💥 1 BUGS DEFEATED!</text>
+  <text x="280" y="310" class="battle-text neutral">⚡ COMBO: 1x</text>
+</svg>
