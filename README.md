@@ -150,42 +150,51 @@
 
 ---
 
-### ⚔️ Code Battle Arena:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ds7838/Ds7838/main/battle-arena.svg" alt="Live Battle Arena" />
-</div>
+### 🎮 RPG Battle System:
 
 <div align="center">
-  <table>
+  <table border="1" style="border-collapse: collapse;">
+    <tr style="background-color: #0d1117; color: white;">
+      <th colspan="3" style="padding: 10px;">⚔️ BOSS BATTLE: THE FINAL BUG ⚔️</th>
+    </tr>
     <tr>
-      <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120"/>
-        <br><strong>🛡️ PLAYER: DS7838</strong>
-        <br>💚💚💚💚💚 HP: 100%
-        <br>⚔️ Weapon: Clean Code
-        <br>🛡️ Shield: Try-Catch Blocks
-        <br>⚡ Special: Debugging Master
+      <td align="center" style="padding: 10px;">
+        <h4>🧙‍♂️ Ds7838 (Level 25)</h4>
+        <div style="background: #00ff41; width: 200px; height: 20px; border-radius: 10px;">
+          <div style="background: #ff4757; width: 20px; height: 20px; border-radius: 10px;"></div>
+        </div>
+        <small>HP: 800/1000</small><br>
+        <small>MP: 500/500</small><br>
+        <small>⚔️ ATK: 95 | 🛡️ DEF: 88</small>
       </td>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
-        <br><strong>⚡ VS ⚡</strong>
-        <br>🔥 EPIC BATTLE 🔥
+      <td align="center" style="padding: 10px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
+        <br><strong>VS</strong>
       </td>
-      <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120"/>
-        <br><strong>🐛 ENEMY: BUGS</strong>
-        <br>❤️💔💔💔💔 HP: 20%
-        <br>💀 Type: Logic Errors
-        <br>🔴 Weakness: Unit Tests
-        <br>⚠️ Danger Level: High
+      <td align="center" style="padding: 10px;">
+        <h4>🐉 LEGACY CODE DRAGON</h4>
+        <div style="background: #ff4757; width: 200px; height: 20px; border-radius: 10px;">
+          <div style="background: #00ff41; width: 180px; height: 20px; border-radius: 10px;"></div>
+        </div>
+        <small>HP: 150/2000</small><br>
+        <small>Weakness: Refactoring</small><br>
+        <small>💀 ATK: 120 | 🛡️ DEF: 200</small>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center" style="padding: 10px;">
+        <h4>⚡ BATTLE LOG ⚡</h4>
+        <div style="text-align: left; font-family: monospace; font-size: 12px;">
+          > Ds7838 used CLEAN CODE! It's super effective!<br>
+          > Legacy Code Dragon took 250 damage!<br>
+          > Ds7838 used UNIT TEST! Critical hit!<br>
+          > Legacy Code Dragon took 300 damage!<br>
+          > Legacy Code Dragon is confused by DOCUMENTATION!<br>
+          > <span style="color: #00ff41;">Victory is near! 🏆</span>
+        </div>
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <h3>🏆 CURRENT BATTLE STATUS 🏆</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=💥+CRITICAL+HIT!+Bug+eliminated!+💥;🎯+Code+coverage+increased+to+95%25!;⚡+Performance+optimized+by+40%25!;🛡️+Security+vulnerability+patched!;🚀+Deployment+successful!+Zero+downtime!;🏅+Code+review+passed!+High+quality!;💎+Refactoring+complete!+Clean+code!" alt="Battle status"/>
 </div>
 ---
 
