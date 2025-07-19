@@ -1,6 +1,16 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Ds7838&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%26%20Mobile%20Developer%20from%20Sri%20Lanka%20🇱🇰&descSize=16&descAlignY=51"/>
+  <img width="100%" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
+</div>
+
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ds7838!;Full+Stack+Developer+🚀" />
+  </h1>
+</div>
+
+<div align="center">
+  <h3>🌟 Full Stack & Mobile Developer from Beautiful Sri Lanka 🇱🇰 🌟</h3>
 </div>
 
 <div align="center">
