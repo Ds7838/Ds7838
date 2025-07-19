@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <h1>Hi 👋, I'm Ds7838</h1>
   <h3>A passionate developer from Sri Lanka 🇱🇰</h3>
@@ -68,4 +68,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ds7838&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
-```
