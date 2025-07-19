@@ -149,52 +149,70 @@
 </div>
 
 ---
-
-### 🎮 RPG Battle System:
+### 🎲 Live Battle Simulator:
 
 <div align="center">
-  <table border="1" style="border-collapse: collapse;">
-    <tr style="background-color: #0d1117; color: white;">
-      <th colspan="3" style="padding: 10px;">⚔️ BOSS BATTLE: THE FINAL BUG ⚔️</th>
-    </tr>
+  <details>
+  <summary>⚔️ Click to Enter Battle Arena!</summary>
+  
+  <br>
+  
+  ### 🏟️ ARENA SELECTION:
+  
+  <table>
     <tr>
-      <td align="center" style="padding: 10px;">
-        <h4>🧙‍♂️ Ds7838 (Level 25)</h4>
-        <div style="background: #00ff41; width: 200px; height: 20px; border-radius: 10px;">
-          <div style="background: #ff4757; width: 20px; height: 20px; border-radius: 10px;"></div>
-        </div>
-        <small>HP: 800/1000</small><br>
-        <small>MP: 500/500</small><br>
-        <small>⚔️ ATK: 95 | 🛡️ DEF: 88</small>
+      <td align="center" width="200">
+        <h4>🌐 Web Development Arena</h4>
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+        <br>Enemies: Cross-browser bugs
+        <br>Difficulty: ⭐⭐⭐
       </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
-        <br><strong>VS</strong>
+      <td align="center" width="200">
+        <h4>📱 Mobile Dev Battleground</h4>
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+        <br>Enemies: Memory leaks
+        <br>Difficulty: ⭐⭐⭐⭐
       </td>
-      <td align="center" style="padding: 10px;">
-        <h4>🐉 LEGACY CODE DRAGON</h4>
-        <div style="background: #ff4757; width: 200px; height: 20px; border-radius: 10px;">
-          <div style="background: #00ff41; width: 180px; height: 20px; border-radius: 10px;"></div>
-        </div>
-        <small>HP: 150/2000</small><br>
-        <small>Weakness: Refactoring</small><br>
-        <small>💀 ATK: 120 | 🛡️ DEF: 200</small>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center" style="padding: 10px;">
-        <h4>⚡ BATTLE LOG ⚡</h4>
-        <div style="text-align: left; font-family: monospace; font-size: 12px;">
-          > Ds7838 used CLEAN CODE! It's super effective!<br>
-          > Legacy Code Dragon took 250 damage!<br>
-          > Ds7838 used UNIT TEST! Critical hit!<br>
-          > Legacy Code Dragon took 300 damage!<br>
-          > Legacy Code Dragon is confused by DOCUMENTATION!<br>
-          > <span style="color: #00ff41;">Victory is near! 🏆</span>
-        </div>
+      <td align="center" width="200">
+        <h4>🖥️ Desktop Arena</h4>
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
+        <br>Enemies: Performance issues
+        <br>Difficulty: ⭐⭐⭐⭐⭐
       </td>
     </tr>
   </table>
+  
+  ### ⚔️ COMBAT SKILLS:
+  
+  ```
+  🗡️  PRIMARY ATTACKS:
+  ├── Clean Code Strike      (DMG: 95)
+  ├── Refactor Slash        (DMG: 88)
+  ├── Debug Lightning       (DMG: 92)
+  └── Optimize Thunder      (DMG: 90)
+  
+  🛡️  DEFENSIVE SKILLS:
+  ├── Try-Catch Shield      (DEF: +50)
+  ├── Error Handling Wall   (DEF: +45)
+  ├── Input Validation      (DEF: +40)
+  └── Code Review Barrier   (DEF: +55)
+  
+  ⚡ SPECIAL ABILITIES:
+  ├── Git Revert Time       (Undo last damage)
+  ├── Stack Overflow        (Ask for help)
+  ├── Coffee Boost          (Restore 50 HP)
+  └── Rubber Duck Debug     (Find hidden bugs)
+  ```
+  
+  ### 🏆 BATTLE ACHIEVEMENTS:
+  
+  - 🥇 **Bug Slayer**: Defeated 1000+ bugs
+  - 🥈 **Code Warrior**: 500+ clean commits
+  - 🥉 **Merge Master**: 100+ successful merges
+  - 🏅 **Performance Hero**: Optimized 50+ functions
+  - ⭐ **Testing Champion**: 95%+ code coverage
+  
+  </details>
 </div>
 ---
 
