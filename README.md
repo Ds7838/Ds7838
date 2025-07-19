@@ -35,7 +35,7 @@
 - 🌱 I'm currently learning **Java EE, Advanced React Native & Modern PHP**
 - 👯 I'm looking to collaborate on **Full Stack Projects & Mobile Applications**
 - 💬 Ask me about **Java, PHP, React Native, Web Development, Desktop & Android Development**
-- 📫 How to reach me: **ds7838@example.com**
+- 📫 How to reach me: **ddanushka900@gmail.com**
 - ⚡ Fun fact: **I can build apps for Web, Desktop & Mobile! 🚀**
 - 🎯 Goal: **To become a versatile developer who can solve any digital challenge**
 - 🌍 From: **Beautiful Sri Lanka 🇱🇰**
@@ -150,15 +150,43 @@
 
 ---
 
-### 🐍 Contribution Snake:
+### ⚔️ Code Battle Arena:
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ds7838/Ds7838/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ds7838/Ds7838/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ds7838/Ds7838/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Ds7838/Ds7838/main/battle-arena.svg" alt="Live Battle Arena" />
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120"/>
+        <br><strong>🛡️ PLAYER: DS7838</strong>
+        <br>💚💚💚💚💚 HP: 100%
+        <br>⚔️ Weapon: Clean Code
+        <br>🛡️ Shield: Try-Catch Blocks
+        <br>⚡ Special: Debugging Master
+      </td>
+      <td align="center" width="100">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
+        <br><strong>⚡ VS ⚡</strong>
+        <br>🔥 EPIC BATTLE 🔥
+      </td>
+      <td align="center" width="300">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120"/>
+        <br><strong>🐛 ENEMY: BUGS</strong>
+        <br>❤️💔💔💔💔 HP: 20%
+        <br>💀 Type: Logic Errors
+        <br>🔴 Weakness: Unit Tests
+        <br>⚠️ Danger Level: High
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>🏆 CURRENT BATTLE STATUS 🏆</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=💥+CRITICAL+HIT!+Bug+eliminated!+💥;🎯+Code+coverage+increased+to+95%25!;⚡+Performance+optimized+by+40%25!;🛡️+Security+vulnerability+patched!;🚀+Deployment+successful!+Zero+downtime!;🏅+Code+review+passed!+High+quality!;💎+Refactoring+complete!+Clean+code!" alt="Battle status"/>
+</div>
 ---
 
 ### 📫 Connect with me:
