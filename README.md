@@ -220,7 +220,7 @@ class Developer {
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ds7838&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117&ring_color=667eea" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=Ds7838&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=764ba2&dates=c9d1d9" alt="Streak Stats"/>
+  <img width="49%" height="195px" src="https://github-readme-streak-stats-eight.vercel.app/?user=Ds7838&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=764ba2&dates=c9d1d9" alt="Streak Stats"/>
 </div>
 
 <br/>
@@ -240,7 +240,7 @@ class Developer {
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ds7838&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Ds7838&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 <br/>
