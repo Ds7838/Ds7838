@@ -219,28 +219,28 @@ class Developer {
 ## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="30" /> GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ds7838&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117&ring_color=667eea" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ds7838&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=764ba2&dates=c9d1d9" alt="Streak Stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ds7838&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117&ring_color=667eea" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=Ds7838&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=764ba2&dates=c9d1d9" alt="Streak Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ds7838&layout=compact&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ds7838&layout=compact&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ds7838&custom_title=📈%20Contribution%20Activity&bg_color=0d1117&color=667eea&line=764ba2&point=00d4ff&area_color=667eea&title_color=667eea&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ds7838&custom_title=Contribution%20Activity&bg_color=0d1117&color=667eea&line=764ba2&point=00d4ff&area_color=667eea&title_color=667eea&area=true&hide_border=true" width="100%"/>
 </div>
 
 <br/>
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ds7838&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ds7838&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 <br/>
