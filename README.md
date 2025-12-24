@@ -12,8 +12,8 @@
 
 <!-- Dynamic Typing Introduction - Fixed Single Line -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&height=50&lines=🚀+Transforming+Ideas+into+Reality;💻+Code+•+Create+•+Innovate;🌟+Building+Digital+Excellence;⚡+Full+Stack+%26+Mobile+Expert" alt="Typing SVG" />
+  <a href="https://github.com/Ds7838">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%9A%80+Transforming+Ideas+into+Reality;%F0%9F%92%BB+Code+%E2%80%A2+Create+%E2%80%A2+Innovate;%F0%9F%8C%9F+Building+Digital+Excellence;%E2%9A%A1+Full+Stack+%26+Mobile+Expert" alt="Typing SVG" />
   </a>
 </div>
 
