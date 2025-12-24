@@ -1,20 +1,29 @@
 <!-- Header Section with Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ds7838&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Mobile%20%7C%20Desktop%20Developer&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Ds7838&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20%7C%20Mobile%20%7C%20Desktop%20Developer&descAlignY=52&descSize=20&descAlign=50"/>
 </div>
 
-<!-- Dynamic Typing Introduction -->
+<!-- Animated Welcome Badge -->
+<div align="center">
+  <img src="https://img.shields.io/badge/👋%20Welcome%20to%20my%20Digital%20Universe-667eea?style=for-the-badge&labelColor=764ba2" />
+</div>
+
+<br/>
+
+<!-- Dynamic Typing Introduction - Fixed Single Line -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe;%F0%9F%9A%80+Transforming+Ideas+into+Reality;%F0%9F%92%BB+Code+%E2%80%A2+Create+%E2%80%A2+Innovate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&height=50&lines=🚀+Transforming+Ideas+into+Reality;💻+Code+•+Create+•+Innovate;🌟+Building+Digital+Excellence;⚡+Full+Stack+%26+Mobile+Expert" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Quick Stats Badges -->
+<br/>
+
+<!-- Quick Stats Badges - Responsive Grid -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-667eea?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka%20🇱🇰-764ba2?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-00d4ff?style=for-the-badge&logo=language&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/🎯_Focus-Full%20Stack%20Development-667eea?style=for-the-badge&labelColor=0d1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/📍_Lives-Sri%20Lanka%20🇱🇰-764ba2?style=for-the-badge&labelColor=0d1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/🗣️_Languages-English%20%26%20Sinhala-00d4ff?style=for-the-badge&labelColor=0d1117" /></a>
 </div>
 
 <br/>
@@ -45,21 +54,27 @@
 ### 🎯 Quick Overview
 
 ```typescript
-const ds7838 = {
-    location: "Sri Lanka 🇱🇰",
-    role: "Full Stack Developer",
-    education: "Computer Science",
+class Developer {
+    name = "Ds7838";
+    location = "Sri Lanka 🇱🇰";
+    title = "Full Stack Developer";
     
-    currentFocus: [
-        "Web Applications",
-        "Mobile Development",
-        "Desktop Software"
-    ],
+    skills = {
+        languages: ["Java", "C#", "PHP", "JavaScript"],
+        frameworks: ["Laravel", ".NET", "React Native", "Spring"],
+        databases: ["MySQL", "SQL Server", "MongoDB"],
+        tools: ["Git", "Docker", "VS Code", "Postman"]
+    };
     
-    funFact: "I can build for ANY platform! 🚀",
+    currentFocus = [
+        "🌐 Web Applications",
+        "📱 Mobile Development", 
+        "🖥️ Desktop Software",
+        "☁️ Cloud Services"
+    ];
     
-    lifePhilosophy: "Code. Create. Innovate."
-};
+    motto = "Code. Create. Innovate. 🚀";
+}
 ```
 
 </td>
@@ -77,10 +92,10 @@ const ds7838 = {
 
 | 🎯 Attribute | 📝 Details |
 |-------------|---------|
-| 🔭 Currently Working On | Enterprise Web Apps & Mobile Solutions |
-| 🌱 Learning | Java EE, Advanced React Native, Cloud Services |
+| 🔭 Currently Working On | Enterprise Web Apps, Mobile & Desktop Solutions |
+| 🌱 Learning | .NET Core, Laravel Advanced, Cloud Services |
 | 👯 Looking to Collaborate | Open Source Projects & Startups |
-| 💬 Ask Me About | Java, PHP, React Native, Full Stack Development |
+| 💬 Ask Me About | Java, C#, Laravel, React Native, Full Stack Development |
 | 📫 Reach Me | ddanushka900@gmail.com |
 | ⚡ Superpower | Building apps for Web, Desktop & Mobile simultaneously |
 
@@ -96,36 +111,49 @@ const ds7838 = {
 <!-- Programming Languages -->
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cs,php,js,html,css&theme=dark" />
 </p>
 
 ### ⚡ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,jquery,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,dotnet,bootstrap,spring&theme=dark" />
 </p>
 
 <table>
 <tr>
-<td align="center" width="140">
+<td align="center" width="130">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
 <sub><b>Mobile Dev</b></sub>
 </td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white" /><br/>
-<sub><b>Enterprise</b></sub>
-</td>
-<td align="center" width="140">
+<td align="center" width="130">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /><br/>
 <sub><b>PHP Framework</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><br/>
+<sub><b>C# Framework</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
+<sub><b>Enterprise</b></sub>
 </td>
 </tr>
 </table>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,visualstudio,androidstudio,postman,figma,docker&theme=dark" />
 </p>
 
+</div>
+
+<br/>
+
+<!-- Certification & Experience Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓_Experience-3+_Years-667eea?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/📁_Projects-20+-764ba2?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-00d4ff?style=for-the-badge&labelColor=0d1117"/>
 </div>
 
 <br/>
@@ -141,11 +169,11 @@ const ds7838 = {
 <br/>
 <h3>🌐 Web Apps</h3>
 <p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
-<sub>Full-stack web applications with modern architectures</sub>
+<sub>Laravel & PHP full-stack web applications</sub>
 </td>
 
 <td align="center" width="25%">
@@ -164,10 +192,11 @@ const ds7838 = {
 <br/>
 <h3>🖥️ Desktop Apps</h3>
 <p>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
-<sub>Powerful desktop solutions with Java</sub>
+<sub>C# .NET & Java desktop solutions</sub>
 </td>
 
 <td align="center" width="25%">
@@ -223,30 +252,62 @@ const ds7838 = {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🌐 Project One</h3>
+<h3 align="center">🌐 Laravel Web Application</h3>
 <div align="center">
 <a href="https://github.com/Ds7838" target="_blank">
-<img src="https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗_View_Project-667eea?style=for-the-badge&logoColor=white"/>
 </a>
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
-<p><em>Enterprise-level web application with robust backend</em></p>
+<p><em>Full-stack Laravel web application with modern UI</em></p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">📱 Project Two</h3>
+<h3 align="center">🖥️ C# Desktop Application</h3>
 <div align="center">
 <a href="https://github.com/Ds7838" target="_blank">
-<img src="https://img.shields.io/badge/View%20Project-764ba2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗_View_Project-764ba2?style=for-the-badge&logoColor=white"/>
+</a>
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+<p><em>Enterprise desktop solution with .NET framework</em></p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">📱 React Native Mobile App</h3>
+<div align="center">
+<a href="https://github.com/Ds7838" target="_blank">
+<img src="https://img.shields.io/badge/🔗_View_Project-f093fb?style=for-the-badge&logoColor=white"/>
 </a>
 <p>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
-<p><em>Cross-platform mobile application</em></p>
+<p><em>Cross-platform mobile application for iOS & Android</em></p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">☕ Java Enterprise System</h3>
+<div align="center">
+<a href="https://github.com/Ds7838" target="_blank">
+<img src="https://img.shields.io/badge/🔗_View_Project-00d4ff?style=for-the-badge&logoColor=white"/>
+</a>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+<p><em>Enterprise-level Java application with Spring Boot</em></p>
 </div>
 </td>
 </tr>
@@ -262,7 +323,8 @@ const ds7838 = {
 
 ```text
 Java          ████████████████████████░   95%
-PHP           ██████████████████████░░░   88%
+C#/.NET       ██████████████████████░░░   88%
+PHP/Laravel   ██████████████████████░░░   90%
 JavaScript    █████████████████████░░░░   85%
 React Native  ████████████████████░░░░░   80%
 MySQL         ██████████████████████░░░   90%
@@ -330,7 +392,7 @@ HTML/CSS      ██████████████████████
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
 </div>
 
 <div align="center">
@@ -341,10 +403,14 @@ HTML/CSS      ██████████████████████
   </h3>
   
   <p>
-    <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square"/>
-    <img src="https://img.shields.io/badge/From-Sri%20Lanka%20🇱🇰-green?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-red?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/From-Sri%20Lanka%20🇱🇰-success?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-667eea?style=for-the-badge"/>
   </p>
+  
+  <br/>
+  
+  <p><i>⭐ Star my repositories if you find them useful! ⭐</i></p>
 </div>
 
 <!-- Hidden Easter Egg -->
