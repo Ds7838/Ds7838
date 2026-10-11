@@ -22,16 +22,16 @@
   
   <!-- Player Side -->
   <text x="100" y="100" class="battle-text player">PLAYER: DS7838</text>
-  <text x="100" y="130" class="battle-text player">HP: 94%</text>
+  <text x="100" y="130" class="battle-text player">HP: 98%</text>
   <text x="100" y="160" class="battle-text player">WEAPON: ⚔️ Clean Code</text>
   
   <!-- Enemy Side -->
   <text x="500" y="100" class="battle-text enemy">ENEMY: BUGS</text>
-  <text x="500" y="130" class="battle-text enemy">HP: 29%</text>
+  <text x="500" y="130" class="battle-text enemy">HP: 23%</text>
   <text x="500" y="160" class="battle-text enemy">TYPE: 🐛 Logic Errors</text>
   
   <!-- Battle Status -->
   <text x="300" y="250" class="battle-text neutral">BATTLE STATUS:</text>
-  <text x="250" y="280" class="battle-text player">💥 3 BUGS DEFEATED!</text>
+  <text x="250" y="280" class="battle-text player">💥 1 BUGS DEFEATED!</text>
   <text x="280" y="310" class="battle-text neutral">⚡ COMBO: 1x</text>
 </svg>
